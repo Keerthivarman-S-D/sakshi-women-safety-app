@@ -67,10 +67,10 @@ The MVP focuses on **emergency response**, with advanced safety features planned
 ## 📱 Demo
 
 - **App Demo (Sender Phone):**  
-  👉 *[Add App Demo Video Link]*
+  👉 *https://drive.google.com/file/d/1lhbnQYCSkdNNKT_q9N1O3Rhc-PpDqlyI/view?usp=drive_link*
 
 - **SOS Alert & Live Location (Receiver Phone):**  
-  👉 *[Add Receiver Demo Video Link]*
+  👉 *https://drive.google.com/file/d/1RoPvYE7WRYSuguurTvZkVC_VpiK-iEPG/view?usp=drive_link*
 
 > Both videos together demonstrate the complete SOS and live location flow.
 
@@ -79,7 +79,7 @@ The MVP focuses on **emergency response**, with advanced safety features planned
 ## 📦 MVP Link
 
 - **APK Download:**  
-  👉 *[Add APK / Google Drive / GitHub Release Link]*
+  👉 *https://drive.google.com/file/d/19xmCCwlJ6ZFu7aRoiIl18_aAOmq8ld2x/view?usp=drive_link*
 
 ---
 
@@ -87,4 +87,4 @@ The MVP focuses on **emergency response**, with advanced safety features planned
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sakshi-women-safety.git
+   git clone https://github.com/Keerthivarman-S-D/sakshi-women-safety.git
