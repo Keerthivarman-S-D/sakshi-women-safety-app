@@ -67,10 +67,10 @@ The MVP focuses on **emergency response**, with advanced safety features planned
 ## 📱 Demo
 
 - **App Demo (Sender Phone):**  
-  👉 *https://drive.google.com/file/d/1lhbnQYCSkdNNKT_q9N1O3Rhc-PpDqlyI/view?usp=drive_link*
+  👉 *https://drive.google.com/file/d/1lhbnQYCSkdNNKT_q9N1O3Rhc-PpDqlyI/view?usp=sharing*
 
 - **SOS Alert & Live Location (Receiver Phone):**  
-  👉 *https://drive.google.com/file/d/1RoPvYE7WRYSuguurTvZkVC_VpiK-iEPG/view?usp=drive_link*
+  👉 *https://drive.google.com/file/d/1RoPvYE7WRYSuguurTvZkVC_VpiK-iEPG/view?usp=sharing*
 
 > Both videos together demonstrate the complete SOS and live location flow.
 
@@ -79,7 +79,7 @@ The MVP focuses on **emergency response**, with advanced safety features planned
 ## 📦 MVP Link
 
 - **APK Download:**  
-  👉 *https://drive.google.com/file/d/19xmCCwlJ6ZFu7aRoiIl18_aAOmq8ld2x/view?usp=drive_link*
+  👉 *https://drive.google.com/file/d/19xmCCwlJ6ZFu7aRoiIl18_aAOmq8ld2x/view?usp=sharing*
 
 ---
 
