@@ -1,0 +1,29 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.gradle/
+
+# Local config
+local.properties
+
+# Build outputs
+/build
+/app/build
+
+# APK / AAB
+*.apk
+*.aab
+
+# Keystore
+*.jks
+*.keystore
+
+# Native build
+.externalNativeBuild
+.cxx
+
+# Captures
+/captures
+
+# macOS
+.DS_Store

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155201416420",
+    "project_id": "sakshi-women-safety-app",
+    "storage_bucket": "sakshi-women-safety-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155201416420:android:ec355a066544cab77150f1",
+        "android_client_info": {
+          "package_name": "com.example.sakshi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85lhWNaA_fuU0d0n9R-7IyC7IDV9yATs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
